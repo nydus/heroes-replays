@@ -1,0 +1,16 @@
+{"_eventid": 2, "_event": "NNet.Game.SLoadingProgressMessage", "_bits": 56, "m_progress": 51, "_gameloop": 0, "_userid": {"m_userId": 0}}
+{"_eventid": 2, "_event": "NNet.Game.SLoadingProgressMessage", "_bits": 56, "m_progress": 52, "_gameloop": 0, "_userid": {"m_userId": 2}}
+{"_eventid": 2, "_event": "NNet.Game.SLoadingProgressMessage", "_bits": 56, "m_progress": 59, "_gameloop": 0, "_userid": {"m_userId": 2}}
+{"_eventid": 2, "_event": "NNet.Game.SLoadingProgressMessage", "_bits": 56, "m_progress": 56, "_gameloop": 0, "_userid": {"m_userId": 0}}
+{"_eventid": 2, "_event": "NNet.Game.SLoadingProgressMessage", "_bits": 56, "m_progress": 61, "_gameloop": 0, "_userid": {"m_userId": 0}}
+{"_eventid": 2, "_event": "NNet.Game.SLoadingProgressMessage", "_bits": 56, "m_progress": 66, "_gameloop": 0, "_userid": {"m_userId": 0}}
+{"_eventid": 2, "_event": "NNet.Game.SLoadingProgressMessage", "_bits": 56, "m_progress": 64, "_gameloop": 0, "_userid": {"m_userId": 2}}
+{"_eventid": 2, "_event": "NNet.Game.SLoadingProgressMessage", "_bits": 56, "m_progress": 71, "_gameloop": 0, "_userid": {"m_userId": 0}}
+{"_eventid": 2, "_event": "NNet.Game.SLoadingProgressMessage", "_bits": 56, "m_progress": 71, "_gameloop": 0, "_userid": {"m_userId": 2}}
+{"_eventid": 2, "_event": "NNet.Game.SLoadingProgressMessage", "_bits": 56, "m_progress": 85, "_gameloop": 0, "_userid": {"m_userId": 2}}
+{"_eventid": 2, "_event": "NNet.Game.SLoadingProgressMessage", "_bits": 56, "m_progress": 94, "_gameloop": 0, "_userid": {"m_userId": 2}}
+{"_eventid": 2, "_event": "NNet.Game.SLoadingProgressMessage", "_bits": 56, "m_progress": 94, "_gameloop": 0, "_userid": {"m_userId": 0}}
+{"_eventid": 2, "_event": "NNet.Game.SLoadingProgressMessage", "_bits": 56, "m_progress": 99, "_gameloop": 0, "_userid": {"m_userId": 0}}
+{"_eventid": 2, "_event": "NNet.Game.SLoadingProgressMessage", "_bits": 56, "m_progress": 99, "_gameloop": 0, "_userid": {"m_userId": 2}}
+{"m_recipient": 1, "_eventid": 1, "_event": "NNet.Game.SPingMessage", "_gameloop": 6005, "_bits": 96, "_userid": {"m_userId": 1}, "m_point": {"y": 387879, "x": 620847}}
+{"m_recipient": 1, "_eventid": 1, "_event": "NNet.Game.SPingMessage", "_gameloop": 6094, "_bits": 96, "_userid": {"m_userId": 1}, "m_point": {"y": 391161, "x": 736191}}
