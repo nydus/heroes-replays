@@ -11,11 +11,11 @@ BASE="${FILENAME%.*}"
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $DIR
 mkdir json/$BASE
-python $HEROPROTOCOLheroprotocol.py --attributeevents --json $FILE > json/$BASE/replay.attributes.events.json 
-python $HEROPROTOCOLheroprotocol.py --details --json $FILE > json/$BASE/replay.details.json 
-python $HEROPROTOCOLheroprotocol.py --gameevents --json $FILE > json/$BASE/replay.game.events.json
-python $HEROPROTOCOLheroprotocol.py --initdata --json $FILE > json/$BASE/replay.initdata.json 
-python $HEROPROTOCOLheroprotocol.py --messageevents --json $FILE > json/$BASE/replay.message.events.json 
-python $HEROPROTOCOLheroprotocol.py --trackerevents --json $FILE > json/$BASE/replay.tracker.events.json 
-python $HEROPROTOCOLheroprotocol.py --header --json $FILE > json/$BASE/header.json 
+python ${HEROPROTOCOL}heroprotocol.py --attributeevents --json $FILE > json/$BASE/replay.attributes.events.json 
+python ${HEROPROTOCOL}heroprotocol.py --details --json $FILE > json/$BASE/replay.details.json 
+python ${HEROPROTOCOL}heroprotocol.py --gameevents --json $FILE > json/$BASE/replay.game.events.json
+python ${HEROPROTOCOL}heroprotocol.py --initdata --json $FILE > json/$BASE/replay.initdata.json 
+python ${HEROPROTOCOL}heroprotocol.py --messageevents --json $FILE > json/$BASE/replay.message.events.json 
+python ${HEROPROTOCOL}heroprotocol.py --trackerevents --json $FILE > json/$BASE/replay.tracker.events.json 
+python ${HEROPROTOCOL}heroprotocol.py --header --json $FILE > json/$BASE/header.json 
 cd -
